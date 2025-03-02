@@ -56,19 +56,29 @@
   ## output-images
 
   1. Register a new account.
-  <img src="/login-signup-page-using-php-task-2/output_images/signup-page.png"/>
+
+  <img src="/output_images/signup-page.png" />
+
   2. Email Validation.
-  <img src="/login-signup-page-using-php-task-2/output_images/email-validation.png"/>
+
+  <img src="/output_images/email-validation.png"/>
+
   3. Password Validation.
-  <img src="/login-signup-page-using-php-task-2/output_images/Password-validation.png"/>
+
+  <img src="/output_images/Password-validation.png"/>
+
   4. After signup, login to the account.
-  <img src="/login-signup-page-using-php-task-2/output_images/login.png"/>
+
+  <img src="/output_images/login.png"/>
+
   5. After login, dashboard page will be shown.
-  <img src="/login-signup-page-using-php-task-2/output_images/dashboard.png"/>
+
+  <img src="/output_images/dashboard.png"/>
+
   6. You cannot access the dashboard page without logging in; if you try, you will be redirected to the login page.
 
 ## Login Credentials
 
-name: Poorva
+name: `Poorva`
 
-password: Poorva@123
+password: `Poorva@123`
