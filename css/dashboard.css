@@ -41,6 +41,8 @@
   padding: 8px 15px;
   background: #ff3b3b;
   border-radius: 5px;
+  display: flex;
+  align-items: center;
 }
 
 .dashboard-header .logout-btn:hover {

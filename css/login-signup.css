@@ -6,7 +6,6 @@
 }
 .background-container{
     font-family: 'Arial', sans-serif;
-    background-image: url('Mainflow_tas1_carwebsite-landingpage-/images/login/login.png'); /* Add a car-themed background */
     background-size: cover;
     background-position: center;
     display: flex;
